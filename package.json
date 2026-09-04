@@ -1,0 +1,28 @@
+{
+  "name": "@superinstance/quilt-cell",
+  "version": "0.1.0",
+  "description": "The Quilt cell as a JavaScript library. 16-dial Q1.15 vectors, FNV-1a 64-bit state hash, byte-exact with the Python/C/Rust/Verilog/VHDL ports.",
+  "main": "index.js",
+  "files": ["index.js", "README.md"],
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "quilt",
+    "cell",
+    "polyformalism",
+    "fnv-1a",
+    "16-dial",
+    "shape-rag"
+  ],
+  "author": "Casey Digennaro <superinstance@users.noreply.github.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuperInstance/quilt-cell.git"
+  },
+  "homepage": "https://github.com/SuperInstance/quilt-cell",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
