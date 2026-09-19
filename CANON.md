@@ -1,7 +1,7 @@
 ---
 canon: 1
 name: quilt-cell
-mission: "The Quilt cell as a JavaScript library — 16-dial Q1.15 vectors, FNV-1a 64-bit state hash, byte-exact across Python, C, Rust, Verilog, and VHDL."
+mission: "The Quilt cell as a JavaScript library — 16-dial fixed-point vectors, FNV-1a 64-bit state hash, byte-exact across Python, C, Rust, Verilog, and VHDL."
 state: active
 family: infrastructure
 vessel: fleet
